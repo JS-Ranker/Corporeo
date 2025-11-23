@@ -1,0 +1,8 @@
+/* Import global styles */
+@import './assets/styles/globals.css';
+
+/* Minimal base styles */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
